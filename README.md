@@ -1,5 +1,5 @@
 <h3 align="left">Hi there! 👋</h3>
-<h5 align="left">I'm Anshul Padiyar, a Front-End Developer. <br>Passionate about creating engaging and responsive user experiences.</h5>
+<h4 align="left">I'm Anshul Padiyar, a Front-End Developer. <br>Passionate about creating engaging and responsive user experiences.</h4>
 
 <h3 align="left">💻 Skills & Technologies:</h3>
 
@@ -30,6 +30,7 @@
 
 
 <h3 align="left">💬 Connect with me:</h3>
+<h6 align="center">Ping me at <a href="mailto:anshulpadiyar2002@gmail.com"/>anshulpadiyar2002@gmail.com</a></h6>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anshulpadiyar" target="_blank">
