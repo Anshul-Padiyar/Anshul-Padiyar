@@ -21,16 +21,16 @@
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="28" alt="xd logo"  />
 </div>
 
-
+<!--
 <h3 align="left">📊 GitHub Stats:</h3
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Anshul-Padiyar&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
+-->
 
 <h3 align="left">💬 Connect with me:</h3>
-<h6 align="center">Ping me at <a href="mailto:anshulpadiyar2002@gmail.com"/>anshulpadiyar2002@gmail.com</a></h6>
+<h5 align="center">Ping me at <a href="mailto:anshulpadiyar2002@gmail.com"/>anshulpadiyar2002@gmail.com</a></h5>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anshulpadiyar" target="_blank">
