@@ -30,7 +30,7 @@
 -->
 
 <h3 align="left">💬 Connect with me:</h3>
-<h5 align="center">Ping me at <a href="mailto:anshulpadiyar2002@gmail.com"/>anshulpadiyar2002@gmail.com</a></h5>
+<h5 align="center">Ping me at <a href="mailto:anshulpadiyar@hotmail.com"/>anshulpadiyar@hotmail.com</a></h5>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anshulpadiyar" target="_blank">
