@@ -1,43 +1,36 @@
-<h3 align="left">Hi there! 👋</h3>
-<h4 align="left">I'm Anshul Padiyar, a Front-End Developer. <br>Passionate about creating engaging and responsive user experiences.</h4>
+# <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="30"/> Hello There!
 
-<h3 align="left">💻 Skills & Technologies:</h3>
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Anshul-Padiyar.Anshul-Padiyar)](#)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="css3 logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
-  <img width="7" />
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="28" alt="xd logo"  />
-</div>
+```python
+#!/usr/bin/env python3
 
-<!--
-<h3 align="left">📊 GitHub Stats:</h3
+import random
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anshul-Padiyar&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
--->
+class Profile:
+    def __init__(self):
+        self.name = "Anshul"
+        self.alias = "AP"
+        self.learning = ["Python", "Linux"]
 
-<h3 align="left">💬 Connect with me:</h3>
-<h5 align="center">Ping me at <a href="mailto:anshulpadiyar@hotmail.com"/>anshulpadiyar@hotmail.com</a></h5>
+    def ping(self):
+        messages = [
+            "Hey, thanks for dropping by! I code, break stuff, fix it and repeat.",
+            "System online! Enjoy exploring my repo.",
+            "Glad to see you here. Hope you find something cool!"
+        ]
+        print(random.choice(messages))
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anshulpadiyar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=#0a66c2&style=for-the-badge" height="18" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/anshul_padiyar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=%20#405DE6&style=for-the-badge" height="18" alt="instagram logo"  />
-  </a href="https://twitter.com/padiyar_anshul/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="twitter logo"  />
-</div>
+me = Profile()
+me.ping()
+```
+
+[![Personal Website](https://img.shields.io/badge/Website-grey?logo=circle&logoColor=white)](https://Anshul-Padiyar.github.io)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.anshulpadiyar@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshulpadiyar/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/755643753443622912)
+
+## Tools & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,html,css,bootstrap,md,mysql,django,git,github,arch,linux,figma,ai,xd,notion,obsidian,vscode,vscodium&theme=dark)](#)
