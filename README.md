@@ -29,7 +29,7 @@ me.ping()
 [![Personal Website](https://img.shields.io/badge/Website-grey?logo=circle&logoColor=white)](https://Anshul-Padiyar.github.io)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.anshulpadiyar@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshulpadiyar/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/755643753443622912)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://anshul-padiyar.github.io/discord/)
 
 ## Tools & Technologies
 
